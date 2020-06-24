@@ -1,0 +1,5 @@
+{
+  "env":{
+    "MONGODB_CONNECT": "mongodb+srv://pratikdabhi:loopnix@123@traversymedia-paego.mongodb.net/event-qraphql?retryWrites=true&w=majority"
+  }
+}
